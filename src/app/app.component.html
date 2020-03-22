@@ -1,0 +1,15 @@
+<ng-container *ngIf="linkByCategory">
+  <div *ngFor="let category of objectKeys(linkByCategory)" class="categoryLink">
+    <br/>
+    <span class="labelSpan">{{category}}</span>
+    <hr class="hrlink">
+    <span *ngFor='let link of linkByCategory[category]' class="linkSpan">
+      <a [href]="link.href" target="_blank">
+        <span class="chip">
+          <img [src]='link.imageUrl'  [width]='link.width' [height]='link.height'>
+          {{link.name}}
+        </span>
+      </a>  
+    </span>
+  </div>
+</ng-container>
