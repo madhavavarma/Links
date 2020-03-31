@@ -61,5 +61,14 @@
         "width": "96", 
         "length": "96", 
         "category": "Entertainment"
+    },
+    {
+        "id": "7", 
+        "name": "Cake", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://cakebuild.net/", 
+        "width": "96",  
+        "length": "96", 
+        "category": "Study"
     }
 ]
