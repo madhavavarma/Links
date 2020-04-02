@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1", 
+        "name": "Google", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "http://www.google.in", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Search"
+    },
+    {
+        "id": "2", 
+        "name": "Youtube", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "http://www.youtube.com", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Entertainment"
+    },
+    {
+        "id": "3", 
+        "name": "Prime Video", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.primevideo.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Entertainment"
+    },
+    {
+        "id": "4", 
+        "name": "Hyderabad", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.google.com/maps/@17.4123487,78.4080455,11z", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Maps"
+    },
+    {
+        "id": "4", 
+        "name": "GMail", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://mail.google.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Mail"
+    },
+    {
+        "id": "5", 
+        "name": "Ashoka Liviano", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.google.com/maps/place/Ashoka+Liviano/@17.4052551,78.3519541,17z", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Maps"
+    },
+    {
+        "id": "6", 
+        "name": "Naa Songs", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://naasongs.co/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Entertainment"
+    },
+    {
+        "id": "7", 
+        "name": "Cake", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://cakebuild.net/", 
+        "width": "96",  
+        "length": "96", 
+        "category": "Study"
+    },
+    {
+        "id": "8", 
+        "name": "Jenkins Local", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "http://localhost:8080/", 
+        "width": "96",  
+        "length": "96", 
+        "category": "Local"
+    }
+]
