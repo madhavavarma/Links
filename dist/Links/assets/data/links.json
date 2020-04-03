@@ -10,6 +10,24 @@
     },
     {
         "id": "2", 
+        "name": "Bing", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.bing.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Search"
+    },    
+    {
+        "id": "3", 
+        "name": "Duck Duck Go", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://duckduckgo.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Search"
+    },    
+    {
+        "id": "21", 
         "name": "Youtube", 
         "imageUrl": "assets/images/default.png", 
         "href": "http://www.youtube.com", 
@@ -18,7 +36,7 @@
         "category": "Entertainment"
     },
     {
-        "id": "3", 
+        "id": "22", 
         "name": "Prime Video", 
         "imageUrl": "assets/images/default.png", 
         "href": "https://www.primevideo.com/", 
@@ -27,16 +45,34 @@
         "category": "Entertainment"
     },
     {
-        "id": "4", 
-        "name": "Hyderabad", 
+        "id": "23", 
+        "name": "Netflix", 
         "imageUrl": "assets/images/default.png", 
-        "href": "https://www.google.com/maps/@17.4123487,78.4080455,11z", 
+        "href": "https://www.netflix.com/in/", 
         "width": "96", 
         "length": "96", 
-        "category": "Maps"
+        "category": "Entertainment"
     },
     {
-        "id": "4", 
+        "id": "24", 
+        "name": "Hot Star", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.hotstar.com/in", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Entertainment"
+    },
+    {
+        "id": "25", 
+        "name": "Zee5", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.zee5.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Entertainment"
+    },
+    {
+        "id": "31", 
         "name": "GMail", 
         "imageUrl": "assets/images/default.png", 
         "href": "https://mail.google.com/", 
@@ -45,39 +81,48 @@
         "category": "Mail"
     },
     {
-        "id": "5", 
-        "name": "Ashoka Liviano", 
+        "id": "32", 
+        "name": "Outlook", 
         "imageUrl": "assets/images/default.png", 
-        "href": "https://www.google.com/maps/place/Ashoka+Liviano/@17.4052551,78.3519541,17z", 
+        "href": "https://outlook.live.com/owa/", 
         "width": "96", 
         "length": "96", 
-        "category": "Maps"
+        "category": "Mail"
     },
     {
-        "id": "6", 
+        "id": "41", 
+        "name": "Watsapp Web", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://web.whatsapp.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Social"
+    },
+    {
+        "id": "42", 
+        "name": "Facebook", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.facebook.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Social"
+    },
+    {
+        "id": "43", 
+        "name": "Instagram", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.instagram.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Social"
+    },
+    {
+        "id": "51", 
         "name": "Naa Songs", 
         "imageUrl": "assets/images/default.png", 
         "href": "https://naasongs.co/", 
         "width": "96", 
         "length": "96", 
-        "category": "Entertainment"
-    },
-    {
-        "id": "7", 
-        "name": "Cake", 
-        "imageUrl": "assets/images/default.png", 
-        "href": "https://cakebuild.net/", 
-        "width": "96",  
-        "length": "96", 
-        "category": "Study"
-    },
-    {
-        "id": "8", 
-        "name": "Jenkins Local", 
-        "imageUrl": "assets/images/default.png", 
-        "href": "http://localhost:8080/", 
-        "width": "96",  
-        "length": "96", 
-        "category": "Local"
+        "category": "Downloads"
     }
 ]
