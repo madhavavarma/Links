@@ -70,5 +70,14 @@
         "width": "96",  
         "length": "96", 
         "category": "Study"
+    },
+    {
+        "id": "8", 
+        "name": "Jenkins Local", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "http://localhost:8080/", 
+        "width": "96",  
+        "length": "96", 
+        "category": "Local"
     }
 ]
