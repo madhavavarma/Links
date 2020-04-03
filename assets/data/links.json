@@ -54,6 +54,24 @@
         "category": "Entertainment"
     },
     {
+        "id": "24", 
+        "name": "Hot Star", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.hotstar.com/in", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Entertainment"
+    },
+    {
+        "id": "25", 
+        "name": "Zee5", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.zee5.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Entertainment"
+    },
+    {
         "id": "31", 
         "name": "GMail", 
         "imageUrl": "assets/images/default.png", 
