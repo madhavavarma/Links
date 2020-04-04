@@ -127,7 +127,7 @@
     },
     {
         "id": "45", 
-        "name": "Twitter", 
+        "name": "Pintrest", 
         "imageUrl": "assets/images/default.png", 
         "href": "https://in.pinterest.com/", 
         "width": "96", 
@@ -196,5 +196,51 @@
         "width": "96", 
         "length": "96", 
         "category": "News"
-    }   
+    },
+    {
+        "id": "71", 
+        "name": "Amazon", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.amazon.in/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    },
+    {
+        "id": "72", 
+        "name": "Flipkart", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.flipkart.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    },
+    {
+        "id": "73", 
+        "name": "Snapdeal", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.snapdeal.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    },
+    {
+        "id": "74", 
+        "name": "Myntra", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.myntra.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    },
+    {
+        "id": "75", 
+        "name": "Alibaba", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.alibaba.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    }     
+    
 ]
