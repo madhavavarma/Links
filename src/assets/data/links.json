@@ -117,6 +117,24 @@
         "category": "Social"
     },
     {
+        "id": "44", 
+        "name": "Twitter", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.twitter.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Social"
+    },
+    {
+        "id": "45", 
+        "name": "Pintrest", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://in.pinterest.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Social"
+    },
+    {
         "id": "51", 
         "name": "Naa Songs", 
         "imageUrl": "assets/images/default.png", 
@@ -124,5 +142,149 @@
         "width": "96", 
         "length": "96", 
         "category": "Downloads"
-    }
+    },
+    {
+        "id": "61", 
+        "name": "UC News", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.ucnews.in/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "62", 
+        "name": "India Times", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.indiatimes.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "63", 
+        "name": "Yahoo News", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://in.news.yahoo.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "64", 
+        "name": "NDTV News", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.ndtv.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "65", 
+        "name": "News 18", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.news18.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "66", 
+        "name": "Times of India", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://timesofindia.indiatimes.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "71", 
+        "name": "Amazon", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.amazon.in/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    },
+    {
+        "id": "72", 
+        "name": "Flipkart", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.flipkart.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    },
+    {
+        "id": "73", 
+        "name": "Snapdeal", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.snapdeal.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    },
+    {
+        "id": "74", 
+        "name": "Myntra", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.myntra.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    },
+    {
+        "id": "75", 
+        "name": "Alibaba", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.alibaba.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Shopping"
+    },
+    {
+        "id": "81", 
+        "name": "HDFC", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://netbanking.hdfcbank.com/netbanking", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    },
+    {
+        "id": "82", 
+        "name": "SBI", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://retail.onlinesbi.com/retail/login.htm", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    },
+    {
+        "id": "83", 
+        "name": "ICICI", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.icicibank.com/personal-banking/onlineservice/online-services/onlineservice.page", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    },
+    {
+        "id": "84", 
+        "name": "Axis", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://retail.axisbank.co.in/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    },
+    {
+        "id": "85", 
+        "name": "CITI", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.online.citibank.co.in/products-services/online-services/internet-banking.htm", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    }         
 ]
