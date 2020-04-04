@@ -117,6 +117,24 @@
         "category": "Social"
     },
     {
+        "id": "44", 
+        "name": "Twitter", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.twitter.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Social"
+    },
+    {
+        "id": "45", 
+        "name": "Twitter", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://in.pinterest.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Social"
+    },
+    {
         "id": "51", 
         "name": "Naa Songs", 
         "imageUrl": "assets/images/default.png", 
@@ -124,5 +142,59 @@
         "width": "96", 
         "length": "96", 
         "category": "Downloads"
-    }
+    },
+    {
+        "id": "61", 
+        "name": "UC News", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.ucnews.in/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "62", 
+        "name": "India Times", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.indiatimes.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "63", 
+        "name": "Yahoo News", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://in.news.yahoo.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "64", 
+        "name": "NDTV News", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.ndtv.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "65", 
+        "name": "News 18", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.news18.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    },
+    {
+        "id": "66", 
+        "name": "Times of India", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://timesofindia.indiatimes.com/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "News"
+    }   
 ]
