@@ -1,12 +1,13 @@
+
 .chip {
     display: inline-block;
     padding: 0 25px;
     height: 50px;
     font-size: 16px;
     line-height: 50px;
-    border-radius: 25px;
+    /* border-radius: 25px; */
     background-color: #131212;
-    color: #f7f5f5;
+    color: #a09bf1;;
     font-family: monospace;
   }
   
@@ -22,6 +23,7 @@
     width: 100px;
     display: inline-block;
     font-family: sans-serif;
+    color: #717171;
   }
 
   .categoryLink {
