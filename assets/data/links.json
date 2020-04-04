@@ -241,6 +241,50 @@
         "width": "96", 
         "length": "96", 
         "category": "Shopping"
-    }     
-    
+    },
+    {
+        "id": "81", 
+        "name": "HDFC", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://netbanking.hdfcbank.com/netbanking", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    },
+    {
+        "id": "82", 
+        "name": "SBI", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://retail.onlinesbi.com/retail/login.htm", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    },
+    {
+        "id": "83", 
+        "name": "ICICI", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.icicibank.com/personal-banking/onlineservice/online-services/onlineservice.page", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    },
+    {
+        "id": "84", 
+        "name": "Axis", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://retail.axisbank.co.in/", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    },
+    {
+        "id": "85", 
+        "name": "CITI", 
+        "imageUrl": "assets/images/default.png", 
+        "href": "https://www.online.citibank.co.in/products-services/online-services/internet-banking.htm", 
+        "width": "96", 
+        "length": "96", 
+        "category": "Netbanking"
+    }         
 ]
