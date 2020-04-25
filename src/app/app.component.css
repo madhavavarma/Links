@@ -63,5 +63,9 @@
     padding: 10px 2px;
     flex-basis: 40%;
   }
+
+  .main {
+    width: 100%;
+  }
 }
 
