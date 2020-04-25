@@ -1,39 +1,67 @@
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
 
-.chip {
-    display: inline-block;
-    padding: 0 25px;
-    height: 50px;
-    font-size: 16px;
-    line-height: 50px;
-    /* border-radius: 25px; */
-    background-color: #131212;
-    color: #a09bf1;;
-    font-family: monospace;
-  }
-  
-  .chip img {
-    float: left;
-    margin: 0 10px 0 -25px;
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: monospace;
+    margin: 25px;
+}
+
+.card {
+  display:flex;
+  margin: 10px;
+  cursor: pointer;
+  flex-direction: column;
+  min-width: 120px;
+  padding: 10px;
+
+  align-items: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 1);
+}
+
+.card a {
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+
+
+}
+
+.card:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 1);
+}
+
+.side {
+  background: transparent;
+
+}
+.content {
+  letter-spacing: 0.5px;
+  font-size: 1.1em;
+}
+
+.content p {
+  padding: 0px 10px;
+}
+
+@media (max-width: 480px) {
+  .container {
+    margin: 2px;
+    flex-wrap: nowrap;
+    width: 100%;
+    overflow: scroll;
   }
 
-  .labelSpan {
-    width: 100px;
-    display: inline-block;
-    font-family: sans-serif;
-    color: #717171;
+  .card {
+    padding: 10px 2px;
+    flex-basis: 40%;
   }
+}
 
-  .categoryLink {
-      margin: 30px;
-  }
-
-  .hrlink {
-      opacity: 0.2;
-  }
-
-  .linkSpan {
-      padding: 5px;
-  }

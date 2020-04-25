@@ -1,15 +1,20 @@
+<div class="main">
 <ng-container *ngIf="linkByCategory">
   <div *ngFor="let category of objectKeys(linkByCategory)" class="categoryLink">
-    <br/>
-    <span class="labelSpan">{{category}}</span>
-    <hr class="hrlink">
-    <span *ngFor='let link of linkByCategory[category]' class="linkSpan">
-      <a [href]="link.href" target="_blank">
-        <span class="chip">
-          <!-- <img [src]='link.imageUrl'  [width]='link.width' [height]='link.height'> -->
-          {{link.name}}
-        </span>
-      </a>  
-    </span>
+    <div class="container">
+     
+
+      <div class="card" *ngFor="let i of linkByCategory[category]">
+        <a [href]="i.href">
+          <div class="side">
+              <ngx-avatar [name]="i.name" [round]="false" ></ngx-avatar>
+          </div>
+          <div class="content">
+              <p>{{i.name}}</p>
+          </div>
+        </a>
+      </div>
+  </div>
   </div>
 </ng-container>
+</div>
