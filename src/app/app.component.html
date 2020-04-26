@@ -2,10 +2,8 @@
 <ng-container *ngIf="linkByCategory">
   <div *ngFor="let category of objectKeys(linkByCategory)" class="categoryLink">
     <div class="container">
-     
-
       <div class="card" *ngFor="let i of linkByCategory[category]">
-        <a [href]="i.href">
+        <a [href]="i.href" target="_blank">
           <div class="side">
               <ngx-avatar [name]="i.name" [round]="false" ></ngx-avatar>
           </div>
